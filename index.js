@@ -32,7 +32,7 @@ function save(){
     sa.textContent += countStr
     count1.textContent = 0;
     count = 0
-    // console.log(count);
+    console.log(count);
 }
 
 save()
